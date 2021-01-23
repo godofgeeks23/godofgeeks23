@@ -1,6 +1,4 @@
-[![Header](https://github.com/godofgeeks23/godofgeeks23/blob/main/log%20(3).png "Header")](https://some-url.dev/)
-
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **godofgeeks23/godofgeeks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
