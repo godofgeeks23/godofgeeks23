@@ -7,6 +7,10 @@ I am currently a student, pursuing my undergraduate degree in Computer Science a
 I am passionate about Coding - be it Competitive or Development related.<br>
 Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
+## Connect
+Twitter: https://img.shields.io/twitter/follow/geek_sri?label=Twitter&style=social
+
+
 <!--
 **godofgeeks23/godofgeeks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
