@@ -3,9 +3,9 @@
 Welcome to my GitHub page!
 
 ## About Me
-I am currently a student, pursuing my undergraduate degree in Computer Science and Engineering, in India.
-I am passionate about Coding - be it Competitive or Development related.
-Other things that I am interested in are Music, Cooking and Spirituality.
+I am currently a student, pursuing my undergraduate degree in Computer Science and Engineering, in India.<br>
+I am passionate about Coding - be it Competitive or Development related.<br>
+Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
 <!--
 **godofgeeks23/godofgeeks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
