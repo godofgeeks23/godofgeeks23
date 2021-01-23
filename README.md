@@ -8,7 +8,19 @@ I am passionate about Coding - be it Competitive or Development related.<br>
 Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
 ## Connect
-Twitter: ![](https://img.shields.io/twitter/follow/geek_sri?label=Twitter&style=social)
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/geek_sri
+[2]: https://www.linkedin.com/in/aviral-srivastava-07b1a4202/
 
 <!--
 **godofgeeks23/godofgeeks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
