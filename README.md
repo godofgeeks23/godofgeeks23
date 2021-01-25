@@ -1,10 +1,14 @@
-# Hi there! 👋
+# Hi There! 👋
 
 Welcome to my GitHub page!
 
 ## About Me
-I am currently a student, pursuing my undergraduate degree in Computer Science and Engineering, in India.<br>
+I am currently a student, pursuing my undergraduate degree in Computer Science and Engineering (currently in 1st Year), in India.<br>
 I am passionate about Coding - be it Competitive or Development related.<br>
+Technologies that I am familiar with - <br>
+1. C++<br>
+2. C<br>
+<br>
 Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
 ## Connect
