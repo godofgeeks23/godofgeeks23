@@ -8,6 +8,13 @@ I am passionate about Coding - be it Competitive or Development related.<br>
 Technologies that I am familiar with - <br>
 1. C++<br>
 2. C<br>
+3. Git<br>
+4. Linux<br>
+5. Qt Development<br>
+6. HTML<br>
+7. CSS<br>
+8. JavaScript<br>
+9. Python<br>
 <br>
 Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
