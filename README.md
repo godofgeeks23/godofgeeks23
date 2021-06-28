@@ -23,6 +23,8 @@ Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+Or [Drop a Mail](mailto:aviral.2024cse1056@kiet.edu)
+
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -33,6 +35,26 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/geek_sri
 [2]: https://www.linkedin.com/in/aviral-srivastava-07b1a4202/
 
+
+## My Recent Projects
+
+Particle Systems in JavaScript - 
+
+[Play and Interact](https://godofgeeks23.github.io/particle_systems_JS/particle_systems_proj/main.html)
+
+[Browse Code](https://github.com/godofgeeks23/particle_systems_JS)
+
+BootStrap Resume  
+
+[View Resume](https://godofgeeks23.github.io/bootstrap_Resume/main.html)
+
+[Browse Code](https://github.com/godofgeeks23/bootstrap_Resume)
+
+BMI Calculator
+
+[View Calculator](https://godofgeeks23.github.io/bmi_calc/main.html)
+
+[Browse Code](https://github.com/godofgeeks23/bmi_calc)
 <!--
 **godofgeeks23/godofgeeks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
