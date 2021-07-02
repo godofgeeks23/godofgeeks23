@@ -23,7 +23,7 @@ Other things that I am interested in are Music, Cooking and Spirituality.<br>
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-Or [Drop a Mail](mailto:aviral.2024cse1056@kiet.edu)
+Or [Drop a Mail](mailto:aviralji4@gmail.com)
 
 <!-- Icons -->
 
