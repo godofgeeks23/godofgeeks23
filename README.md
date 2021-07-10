@@ -38,6 +38,10 @@ Or [Drop a Mail](mailto:aviralji4@gmail.com)
 
 ## My Recent Projects
 
+Discord Bot - AviBot
+
+[Browse Code](https://github.com/godofgeeks23/my_webDevProjs/tree/master/aviBot)
+
 Particle Systems in JavaScript - 
 
 [Play and Interact](https://godofgeeks23.github.io/particle_systems_JS/particle_systems_proj/main.html)
