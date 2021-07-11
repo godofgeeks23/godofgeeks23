@@ -17,7 +17,22 @@ Technologies that I am familiar with -
 - Qt Development
 - Python
 
-Other things that I am interested in are Reading, Music, Cooking and Spirituality.
+
+🔭 I’m currently working on ...
+
+- JavaScript API Projects like Discord Bot, Twitter Bot, and Mapping Data.
+- Random Creative Coding Stuff
+
+🌱 I’m currently learning ...
+
+- APIs in JavaScript
+- NodeJS
+
+😄 Pronouns: He/Him
+
+Other things that I am interested in are Cybersecurity, CTFs, Reading, Music, Cooking and Spirituality.
+
+⚡ Fun fact:  I  just can't dance🙂
 
 ## Connect With Me! 
 
@@ -35,7 +50,9 @@ Or [Drop a Mail](mailto:aviralji4@gmail.com) ✉️.
 ## My Recent Projects
 
 I have been working on the following projects recently...
+
 And I have made them with ❤️.
+
 Have a look 😊
 
 **1️⃣ Discord Bot - AviBot**
