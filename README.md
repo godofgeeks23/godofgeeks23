@@ -3,7 +3,7 @@
 Welcome to my GitHub page!
 
 ## About Me
--------------
+
 I am currently a student, pursuing my undergraduate degree in Computer Science and Engineering (currently in 1st Year), in India.
 I am passionate about Coding - be it Competitive or Development related.
 Technologies that I am familiar with - 
@@ -20,7 +20,7 @@ Technologies that I am familiar with -
 Other things that I am interested in are Reading, Music, Cooking and Spirituality.
 
 ## Connect With Me!
----------------------
+
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 Or [Drop a Mail](mailto:aviralji4@gmail.com).
@@ -33,7 +33,7 @@ Or [Drop a Mail](mailto:aviralji4@gmail.com).
 
 
 ## My Recent Projects
-----------------------
+
 I have been working on the following projects recently - 
 
 **Discord Bot - AviBot**
