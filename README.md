@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-Welcome to my GitHub page!
+Welcome to my GitHub Profile!
 
 ## About Me
 
@@ -19,11 +19,11 @@ Technologies that I am familiar with -
 
 Other things that I am interested in are Reading, Music, Cooking and Spirituality.
 
-## Connect With Me!
+## Connect With Me! 
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-Or [Drop a Mail](mailto:aviralji4@gmail.com).
+Or [Drop a Mail](mailto:aviralji4@gmail.com) ✉️.
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
@@ -34,25 +34,27 @@ Or [Drop a Mail](mailto:aviralji4@gmail.com).
 
 ## My Recent Projects
 
-I have been working on the following projects recently - 
+I have been working on the following projects recently...
+And I have made them with ❤️.
+Have a look 😊
 
-**Discord Bot - AviBot**
+**1️⃣ Discord Bot - AviBot**
 
 [Browse Code](https://github.com/godofgeeks23/my_webDevProjs/tree/master/aviBot)
 
-**Particle Systems in JavaScript**
+**2️⃣ Particle Systems in JavaScript**
 
 [Play and Interact](https://godofgeeks23.github.io/particle_systems_JS/particle_systems_proj/main.html)
 
 [Browse Code](https://github.com/godofgeeks23/particle_systems_JS)
 
-**BootStrap Resume**  
+**3️⃣ BootStrap Resume**  
 
 [View Resume](https://godofgeeks23.github.io/bootstrap_Resume/main.html)
 
 [Browse Code](https://github.com/godofgeeks23/bootstrap_Resume)
 
-**BMI Calculator**
+**4️⃣ BMI Calculator**
 
 [View Calculator](https://godofgeeks23.github.io/bmi_calc/main.html)
 
