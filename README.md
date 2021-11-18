@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, this is Aviral, aka GodOfGeeks 😎</h1>
-<h3 align="center">A guy obsessed with Coding</h3>
+<h3 align="center">A Coding Addict</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godofgeeks23&label=Profile%20views&color=0e75b6&style=flat" alt="godofgeeks23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/geek_sri" target="blank"><img src="https://img.shields.io/twitter/follow/geek_sri?logo=twitter&style=for-the-badge" alt="geek_sri" /></a> </p>
 
-- 🔭 I’m currently working on [NLP in Python](https://github.com/godofgeeks23/nlp_evaluator)
+- 🔭 I’m currently working on [NLP in Python and JS](https://github.com/godofgeeks23/nlp_evaluator)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/godofgeeks23](https://github.com/godofgeeks23)
 
-- 💬 Ask me about **DSA, HTML, CSS, JS, BootStrap, C, C++, Creative Coding**
+- 💬 Ask me about **DSA, HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding**
 
 - 📫 How to reach me **aviralji4@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/103fe5Ko-3qiGf31NI5kLmqP_lfGhsM3-/view?usp=sharing](https://drive.google.com/file/d/103fe5Ko-3qiGf31NI5kLmqP_lfGhsM3-/view?usp=sharing)
 
-- ⚡ Fun fact **I love Cooking**
+- ⚡ Fun fact **I love Cooking😋 and Music 🎵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
