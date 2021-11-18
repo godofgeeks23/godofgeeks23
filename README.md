@@ -1,79 +1,41 @@
-# Hi There! 👋
+<h1 align="center">Hi 👋, this is Aviral, aka GodOfGeeks 😎</h1>
+<h3 align="center">A guy obsessed with Coding</h3>
 
-Welcome to my GitHub Profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=godofgeeks23&label=Profile%20views&color=0e75b6&style=flat" alt="godofgeeks23" /> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/geek_sri" target="blank"><img src="https://img.shields.io/twitter/follow/geek_sri?logo=twitter&style=for-the-badge" alt="geek_sri" /></a> </p>
 
-I am currently a student, pursuing my undergraduate degree in Computer Science and Engineering (currently in 1st Year), in India.
-I am passionate about Coding - be it Competitive or Development related.
-Technologies that I am familiar with - 
-- C++
-- C
-- Git
-- Linux
-- HTML
-- CSS
-- JavaScript
-- Qt Development
-- Python
+- 🔭 I’m currently working on [NLP in Python](https://github.com/godofgeeks23/nlp_evaluator)
 
+- 🌱 I’m currently learning **NodeJS**
 
-🔭 I’m currently working on ...
+- 👨‍💻 All of my projects are available at [https://github.com/godofgeeks23](https://github.com/godofgeeks23)
 
-- JavaScript API Projects like Discord Bot, Twitter Bot, and Mapping Data.
-- Random Creative Coding Stuff
+- 💬 Ask me about **DSA, HTML, CSS, JS, BootStrap, C, C++, Creative Coding**
 
-🌱 I’m currently learning ...
+- 📫 How to reach me **aviralji4@gmail.com**
 
-- APIs in JavaScript
-- NodeJS
+- 📄 Know about my experiences [https://drive.google.com/file/d/103fe5Ko-3qiGf31NI5kLmqP_lfGhsM3-/view?usp=sharing](https://drive.google.com/file/d/103fe5Ko-3qiGf31NI5kLmqP_lfGhsM3-/view?usp=sharing)
 
-😄 Pronouns: He/Him
+- ⚡ Fun fact **I love Cooking**
 
-Other things that I am interested in are Cybersecurity, CTFs, Reading, Music, Cooking and Spirituality.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/godofgeeks23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="godofgeeks23" height="30" width="40" /></a>
+<a href="https://twitter.com/geek_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geek_sri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aviral-srivastava-07b1a4202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-srivastava-07b1a4202" height="30" width="40" /></a>
+<a href="https://instagram.com/its_aviral_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_aviral_sri" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aviralji4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aviralji4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aviralsri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aviralsri" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aviralsrivastava2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aviralsrivastava2" height="30" width="40" /></a>
+</p>
 
-⚡ Fun fact:  I  just can't dance🙂
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Connect With Me! 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofgeeks23&show_icons=true&locale=en&layout=compact" alt="godofgeeks23" /></p>
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofgeeks23&show_icons=true&locale=en" alt="godofgeeks23" /></p>
 
-Or [Drop a Mail](mailto:aviralji4@gmail.com) ✉️.
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://twitter.com/geek_sri
-[2]: https://www.linkedin.com/in/aviral-srivastava-07b1a4202/
-
-
-## My Recent Projects
-
-I have been working on the following projects recently...
-
-And I have made them with ❤️.
-
-Have a look 😊
-
-**1️⃣ Discord Bot - AviBot**
-
-[Browse Code](https://github.com/godofgeeks23/my_webDevProjs/tree/master/aviBot)
-
-**2️⃣ Particle Systems in JavaScript**
-
-[Play and Interact](https://godofgeeks23.github.io/particle_systems_JS/particle_systems_proj/main.html)
-
-[Browse Code](https://github.com/godofgeeks23/particle_systems_JS)
-
-**3️⃣ BootStrap Resume**  
-
-[View Resume](https://godofgeeks23.github.io/bootstrap_Resume/main.html)
-
-[Browse Code](https://github.com/godofgeeks23/bootstrap_Resume)
-
-**4️⃣ BMI Calculator**
-
-[View Calculator](https://godofgeeks23.github.io/bmi_calc/main.html)
-
-[Browse Code](https://github.com/godofgeeks23/bmi_calc)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" /></p>
 
