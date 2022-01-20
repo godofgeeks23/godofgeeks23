@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/godofgeeks23](https://github.com/godofgeeks23)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/godofgeeks23)
 
 - 💬 Ask me about **DSA, HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
 
 - 📫 How to reach me **aviralji4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/103fe5Ko-3qiGf31NI5kLmqP_lfGhsM3-/view?usp=sharing](https://drive.google.com/file/d/103fe5Ko-3qiGf31NI5kLmqP_lfGhsM3-/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/1wwvVCx_Ea6p7YVOUla_9EcO6THd4Sefr/view?usp=sharing)
 
 - ⚡ Fun fact **I love Cooking😋 and Music 🎵**
 
