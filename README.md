@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/geek_sri" target="blank"><img src="https://img.shields.io/twitter/follow/godofgeeks_?logo=twitter&style=for-the-badge" alt="godofgeeks_" /></a> </p>
 
-- 🔭 I’m currently working on [IDS system using ML, built using Python](https://github.com/godofgeeks23/python_IDS)
+- 🔭 I’m currently working on [Mining Telegram Data, using Python](https://github.com/godofgeeks23/telegram-data-miner)
 
 - 🌱 I’m currently learning **MongoDB**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aviralji4@gmail.com**
 
-- 📄 View my [Resume](https://drive.google.com/file/d/1wwvVCx_Ea6p7YVOUla_9EcO6THd4Sefr/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
 
 - ⚡ Fun fact **I love Cooking😋 and Music 🎵**
 
