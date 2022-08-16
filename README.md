@@ -17,7 +17,7 @@
 
 - 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
 
-- ⚡ Fun fact **I love Cooking😋 and Music 🎵**
+- ⚡ Fun fact **I love Sketching, Cooking😋 and Music 🎵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
