@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mining Telegram Data, using Python](https://github.com/godofgeeks23/telegram-data-miner)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/godofgeeks23)
 
