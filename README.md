@@ -56,11 +56,11 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofgeeks23&show_icons=true&locale=en&layout=compact" alt="godofgeeks23" /></p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofgeeks23&show_icons=true&locale=en&layout=compact" alt="godofgeeks23" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofgeeks23&show_icons=true&locale=en" alt="godofgeeks23" /></p>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofgeeks23&show_icons=true&locale=en" alt="godofgeeks23" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" /></div>
 
 <h3 align="left">Watch a snake 🐍 eat my contributions 😄</h3>
 
