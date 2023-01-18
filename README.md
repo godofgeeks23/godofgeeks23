@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available on GitHub.
+- 👨‍💻 All of my projects are available here on GitHub.
 
 - 💬 Ask me about **DSA, HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
 
