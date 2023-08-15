@@ -64,7 +64,7 @@
 <br/>  
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" /></div>
 <br/>  
-<div align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=godofgeeks23&theme=github" alt="godofgeeks" /></div>
+<div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
 <br />
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=godofgeeks23&margin-w=5&theme=dracula" alt="godofgeeks23" /></div>
 <br />
