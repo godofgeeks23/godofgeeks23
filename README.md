@@ -56,7 +56,7 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
+<div align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godofgeeks23&theme=dracula" alt="akbng" align = "center"/></div>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofgeeks23&show_icons=true&locale=en&layout=compact" alt="godofgeeks23" /></div>
 <br>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofgeeks23&show_icons=true&locale=en" alt="godofgeeks23" /></div>
@@ -64,6 +64,8 @@
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" /></div>
 <br/>  
 <div align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=godofgeeks23&theme=github" alt="godofgeeks" /></div>
+<br />
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=godofgeeks23&margin-w=5&theme=dracula" alt="godofgeeks23" /></div>
 <br />
 <h3 align="left">Watch a snake 🐍 eat my contributions 😄</h3>
 
