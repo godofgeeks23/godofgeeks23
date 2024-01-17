@@ -63,8 +63,8 @@
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofgeeks23&show_icons=true&locale=en" alt="godofgeeks23" /></div>
 <br/>  
 <div align="center">
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" /> -->
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=godofgeeks23&theme=dark)](https://git.io/streak-stats)
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" />
+<!--     [![GitHub Streak](https://streak-stats.demolab.com/?user=godofgeeks23&theme=dark)](https://git.io/streak-stats) -->
 </div>
 <br/>  
 <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
