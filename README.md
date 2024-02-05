@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [.](https://github.com/godofgeeks23/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 Currently learning **Golang**
 
 - 👨‍💻 All of my projects are available here on GitHub.
 
-- 💬 Ask me about **DSA, HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
+- 💬 Ask me about ** HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
 
 - 📫 Reach me **aviralji4@gmail.com**
 
