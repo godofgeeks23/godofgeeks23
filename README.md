@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Uptime Monitor bot for Slack](https://github.com/godofgeeks23/slack-uptime-monitor)
 
-- 🌱 Currently learning **Golang**
+- 🌱 Currently learning **Golang and JS**
 
 - 👨‍💻 All of my projects are available here on GitHub.
 
