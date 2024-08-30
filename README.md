@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ** HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
 
-- 📫 Reach me **aviralji4@gmail.com**
+- 📫 Reach me at **aviralji4@gmail.com**
 
 - 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
 
