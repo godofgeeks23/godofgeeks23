@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available here on GitHub.
 
-- 💬 Ask me about ** HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
+- 💬 Ask me about **HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
 
 - 📫 Reach me at **aviralji4@gmail.com**
 
