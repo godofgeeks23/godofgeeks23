@@ -11,7 +11,7 @@
 
 - 👨‍💻 Checkout my projects here on GitHub.
 
-- 💬 Ask me about **HTML, CSS, JS, Node, BootStrap, C, C++, Creative Coding, CyberSecurity, CTFs**
+- 💬 Ask me about **Backend development, Automation and DevOps, Creative Coding, and CyberSecurity**
 
 - 📫 Reach me at **aviralji4@gmail.com**
 
