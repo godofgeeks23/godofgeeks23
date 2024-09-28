@@ -71,6 +71,6 @@
 <br />
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=godofgeeks23&margin-w=5&theme=dracula" alt="godofgeeks23" /></div>
 <br />
-<h3 align="left">Watch a snake 🐍 eat my contributions 😄</h3>
+<h3 align="left">Here is a 🐍 feeding on my contributions 😄</h3>
 
 ![snake gif](https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg)
