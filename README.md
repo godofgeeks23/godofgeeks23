@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, this is Aviral (aka godofgeeks) </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I am Aviral (aka godofgeeks) </h1>
 <h3 align="center">i'm into nerd shit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godofgeeks23&label=Profile%20views&color=0e75b6&style=flat" alt="godofgeeks23" /> </p>
