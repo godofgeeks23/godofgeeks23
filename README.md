@@ -17,7 +17,7 @@
 
 - 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
 
-- ⚡ P.S. **I love Sketching🖊️, Cooking😋 and Music 🎵**
+- ⚡ P.S. **I love Sketching🖊️, Cooking😋, Music 🎵 Vedanta**
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
