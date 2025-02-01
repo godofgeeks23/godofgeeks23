@@ -11,7 +11,7 @@
 
 - 👨‍💻 Feel free to checkout my projects here on GitHub
 
-- 💬 Ask me about **Backend development, Automation, DevOps, Creative Coding, and Security**
+- 💬 Ask me about **Backend development, Automation, DevOps, Creative Coding, and Web Security**
 
 - 📫 Reach me at **aviralji4@gmail.com**
 
