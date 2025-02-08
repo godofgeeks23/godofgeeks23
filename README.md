@@ -9,7 +9,7 @@
 
 - 🧠 Currently learning **Golang**
 
-- 👨‍💻 Feel free to checkout my projects here on GitHub
+- 👨‍💻 Feel free to checkout my projects here, on GitHub
 
 - 💬 Ask me about **Backend development, Automation, DevOps, Creative Coding, and Web Security**
 
