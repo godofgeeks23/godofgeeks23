@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend development, Automation, DevOps, Creative Coding, and Web Security**
 
-- 📫 Reach me at **aviralji4@gmail.com**
+- 📫 Reach out to me at **aviralji4@gmail.com**
 
 - 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
 
