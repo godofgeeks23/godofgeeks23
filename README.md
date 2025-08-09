@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on - Web-Security Vulnerability Scanner
 
-- 🧠 Currently learning **Golang**
+- 🪲 Security researcher with a developer background
+  
+- 🧠 Currently learning **Golang and Web Security**
 
 - 👨‍💻 Feel free to checkout my projects here, on Github! 
 
