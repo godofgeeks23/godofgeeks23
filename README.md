@@ -9,7 +9,7 @@
 
 - 🪲 Security researcher with a developer background
   
-- 🧠 Currently learning **Golang and Web Security**
+- 🧠 Currently learning **Golang and Security**
 
 - 👨‍💻 Feel free to checkout my projects here, on Github! 
 
