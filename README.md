@@ -19,7 +19,7 @@
 
 - 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
 
-- ⚡ P.S. I love Sketching🖊️, Cooking😋, Music 🎵 and Microcontrollers/Electronics.
+- ⚡ P.S. I love physics and digital creativity. 
 
 <h3 align="left">Socially on:</h3>
 <p align="left">
