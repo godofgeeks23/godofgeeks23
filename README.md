@@ -23,7 +23,7 @@
 
 <h3 align="left">Socially on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aviral-srivastava-07b1a4202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-srivastava-07b1a4202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aviralsrivastav23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-srivastava-07b1a4202" height="30" width="40" /></a>
 <a href="https://twitter.com/godofgeeks_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="godofgeeks_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_godofgeeks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_aviral_sri" height="30" width="40" /></a>
 <!-- <a href="https://dev.to/godofgeeks23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="godofgeeks23" height="30" width="40" /></a> -->
