@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godofgeeks23&label=Profile%20views&color=0e75b6&style=flat" alt="godofgeeks23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/godofgeeks_" target="blank"><img src="https://img.shields.io/twitter/follow/godofgeeks_?logo=twitter&style=for-the-badge" alt="godofgeeks_" /></a> </p>
+<p align="left"> <a href="https://x.com/godofgeeks_" target="blank"><img src="https://img.shields.io/twitter/follow/godofgeeks_?logo=twitter&style=for-the-badge" alt="godofgeeks_" /></a> </p>
 
-- 🪲 I love switching contexts between Security and Development
+- 🖥️ I like switching contexts between Security and Development
 
 - 💬 Things I am interested in: **Backend, Databases, Distributed systems, Infra, Automation, DevOps, Creative Coding, and Security**
 
@@ -36,6 +36,6 @@
 <br/>  
 <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
 <br />
-<h3 align="left">I don't have a pet, so I have this virtual one. My commits keep him fed... keep coming to watch him grow!</h3>
+<p align="left">I don't have a pet, so I try to keep him fed by my commits</p>
 
 ![snake gif](https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg)
