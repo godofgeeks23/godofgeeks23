@@ -44,6 +44,6 @@
 <br/>  
 <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
 <br />
-<h3 align="left">Here is a 🐍 feeding on my contributions</h3>
+<h3 align="left">My commits feed this 🐍, watch him grow!</h3>
 
 ![snake gif](https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg)
