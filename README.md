@@ -9,7 +9,7 @@
 
 - 🪲 Security researcher with a developer background
   
-- 🧠 Currently learning **Golang** and **Web sSecurity**
+- 🧠 Currently learning **Golang** and **in depth Backend**
 
 - 👨‍💻 Feel free to checkout my projects here, on Github! 
 
@@ -26,42 +26,23 @@
 <a href="https://www.linkedin.com/in/aviralsrivastav23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-srivastava-07b1a4202" height="30" width="40" /></a>
 <a href="https://twitter.com/godofgeeks_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="godofgeeks_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avi_ii.iii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_aviral_sri" height="30" width="40" /></a>
-<!-- <a href="https://dev.to/godofgeeks23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="godofgeeks23" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/aviralji4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aviralji4" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/aviralsri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aviralsri" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/aviralsrivastava2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aviralsrivastava2" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
     <h4 align="left">Languages</h3> 
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+        <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="c" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <h4 align="left">Tools</h3> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 <div align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godofgeeks23&theme=dracula" alt="akbng" align = "center"/></div>
-<br>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=godofgeeks23&show_icons=true&locale=en&layout=compact" alt="godofgeeks23" /></div>
-<br>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godofgeeks23&show_icons=true&locale=en" alt="godofgeeks23" /></div>
-<br/>  
-<div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godofgeeks23&" alt="godofgeeks23" />
-<!--     [![GitHub Streak](https://streak-stats.demolab.com/?user=godofgeeks23&theme=dark)](https://git.io/streak-stats) -->
-</div>
 <br/>  
 <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
-<br />
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=godofgeeks23&margin-w=5&theme=dracula" alt="godofgeeks23" /></div>
 <br />
 <h3 align="left">Here is a 🐍 feeding on my contributions</h3>
 
