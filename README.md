@@ -1,9 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I am Aviral </h1>
-<h3 align="center">I love tinkering, and solving hard problems</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godofgeeks23&label=Profile%20views&color=0e75b6&style=flat" alt="godofgeeks23" /> </p>
-
-<p align="left"> <a href="https://x.com/godofgeeks_" target="blank"><img src="https://img.shields.io/twitter/follow/godofgeeks_?logo=twitter&style=for-the-badge" alt="godofgeeks_" /></a> </p>
+<p align="center"><img src="https://pbs.twimg.com/profile_banners/1104249091658178562/1746616747/1500x500" alt="BANNER" /></p>
+<!-- <h3 align="center">I love tinkering, and solving hard problems</h3> -->
 
 - 🖥️ I like switching contexts between Security and Development
 
@@ -34,8 +30,12 @@
 </p>
 <div align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godofgeeks23&theme=dracula" alt="akbng" align = "center"/></div>
 <br/>  
-<div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
-<br />
-<p align="left">I don't have a pet, so I try to keep him fed by my commits</p>
+<!-- <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
+<br /> -->
 
+
+<p align="left">I don't have a pet, so I try to keep him fed by my commits</p>
 ![snake gif](https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=godofgeeks23&label=Profile%20views&color=0e75b6&style=flat" alt="godofgeeks23" /> </p>
