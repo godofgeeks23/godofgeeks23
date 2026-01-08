@@ -5,21 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/godofgeeks_" target="blank"><img src="https://img.shields.io/twitter/follow/godofgeeks_?logo=twitter&style=for-the-badge" alt="godofgeeks_" /></a> </p>
 
-- 🔭 I’m currently working on - Web-Security Vulnerability Scanner
+- 🪲 I love switching contexts between Security and Development
 
-- 🪲 Security researcher with a developer background
-  
-- 🧠 Currently learning **Golang** and **in depth Backend**
+- 💬 Things I am interested in: **Backend, Databases, Distributed systems, Infra, Automation, DevOps, Creative Coding, and Security**
 
-- 👨‍💻 Feel free to checkout my projects here, on Github! 
+- 📫 Drop me a [mail](mailto:aviralji4@gmail.com)
 
-- 💬 Ask me about **Backend development, Automation, DevOps, Creative Coding, and Web Security**
-
-- 📫 Reach out to me at **aviralji4@gmail.com**
-
-- 📄 View my [Resume](https://drive.google.com/drive/folders/1vZfVwiT_n0awiL3UR6SBfC4t65uUFuh0?usp=sharing)
-
-- ⚡ P.S. I love physics and digital creativity. 
+- 📄 Want to hire? View my [Resume](https://drive.google.com/file/d/1ZDRTOgxt1Ytxnj5cXCYYkdxgYRmkyadA/view?usp=sharing)
 
 <h3 align="left">Socially on:</h3>
 <p align="left">
@@ -31,19 +23,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-    <h4 align="left">Languages</h3> 
+    <h4 align="left">Techstack -</h3> 
         <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="c" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <h4 align="left">Tools</h3> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <div align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=godofgeeks23&theme=dracula" alt="akbng" align = "center"/></div>
 <br/>  
 <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=godofgeeks23&theme=react-dark" alt="godofgeeks" /></div>
 <br />
-<h3 align="left">My commits feed this 🐍, watch him grow!</h3>
+<h3 align="left">I don't have a pet, so I have this virtual one. My commits keep him fed... keep coming to watch him grow!</h3>
 
 ![snake gif](https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg)
