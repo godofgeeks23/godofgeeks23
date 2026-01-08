@@ -35,6 +35,7 @@
 
 
 <p align="left">I don't have a pet, so I try to keep him fed by my commits</p>
+
 ![snake gif](https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
