@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Activity
 <p align="center">
   <img src="https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg" />
 </p>
