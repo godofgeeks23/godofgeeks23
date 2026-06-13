@@ -2,7 +2,7 @@
   <img src="https://pbs.twimg.com/profile_banners/1104249091658178562/1746616747/1500x500" alt="Banner" />
 </p>
 
-<h2 align="center">Hi, I'm Aviral 👋</h2>
+<h2 align="center">I'm Aviral 👋</h2>
 <p align="center">
   AI, backend and cloud engineer
 </p>
