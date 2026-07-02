@@ -38,7 +38,7 @@
   <img src="https://github.com/godofgeeks23/godofgeeks23/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-### 🐍 Fun Bit
+### 🐍 
 > I don’t have a pet, so I keep this one fed with my commits 😄
 
 ---
