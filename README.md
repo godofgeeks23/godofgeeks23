@@ -4,7 +4,7 @@
 
 <h2 align="center">I'm Aviral 👋</h2>
 <p align="center">
-  AI, backend and cloud engineer
+  Context absorbing life form
 </p>
 
 ---
